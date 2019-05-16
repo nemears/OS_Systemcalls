@@ -1,0 +1,62 @@
+Feb  8 00:22:44 nick-VirtualBox kernel: [ 5904.821961] User 1000 is opening file: /proc/stat
+Feb  8 00:22:44 nick-VirtualBox kernel: [ 5904.822437] User 1000 is opening file: /etc/passwd
+Feb  8 00:22:44 nick-VirtualBox kernel: [ 5904.822442] User 1000 is opening file: /etc/group
+Feb  8 00:22:44 nick-VirtualBox kernel: [ 5904.822449] User 1000 is opening file: /etc/passwd
+Feb  8 00:22:44 nick-VirtualBox kernel: [ 5904.822471] User 1000 is opening file: /etc/passwd
+Feb  8 00:23:14 nick-VirtualBox kernel: [ 5904.839970] Unloaded interceptor!
+Feb  8 00:23:14 nick-VirtualBox kernel: [ 5934.816615] Interceptor: Found syscall table at address: 0xC17DE1C0Loaded interceptor!
+Feb  8 00:23:21 nick-VirtualBox kernel: [ 5934.818364] "User 1000 is closeing descriptor: -1"User 1000 is closeing descriptor: 48
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5942.155320] "User 1000 is closeing descriptor: 4"User 1000 is closeing descriptor: 5
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.444967] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 4
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.445028] "User 1000 is closeing descriptor: 4"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.445342] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.445422] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.445461] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.445524] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.445578] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.446025] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.446102] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.446132] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.446168] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.446225] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.446305] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.446399] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.446442] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.446544] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.446583] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 4
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.446816] "User 1000 is closeing descriptor: 5"User 1000 is closeing descriptor: 5
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.446918] "User 1000 is closeing descriptor: 5"User 1000 is closeing descriptor: 5
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.446961] "User 1000 is closeing descriptor: 5"User 1000 is closeing descriptor: 5
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.446988] "User 1000 is closeing descriptor: 5"User 1000 is closeing descriptor: 5
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.447018] "User 1000 is closeing descriptor: 5"User 1000 is closeing descriptor: 5
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.447061] "User 1000 is closeing descriptor: 5"User 1000 is closeing descriptor: 5
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.447112] "User 1000 is closeing descriptor: 5"User 1000 is closeing descriptor: 8
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.447395] "User 1000 is closeing descriptor: 8"User 1000 is closeing descriptor: 8
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.447640] "User 1000 is closeing descriptor: 9"User 1000 is closeing descriptor: 10
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.447731] "User 1000 is closeing descriptor: 10"User 1000 is closeing descriptor: 10
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.447876] "User 1000 is closeing descriptor: 10"User 1000 is closeing descriptor: 10
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.447924] "User 1000 is closeing descriptor: 9"User 1000 is closeing descriptor: 9
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.447991] "User 1000 is closeing descriptor: 10"User 1000 is closeing descriptor: 9
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.448025] "User 1000 is closeing descriptor: 8"User 1000 is closeing descriptor: 9
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.448072] "User 1000 is closeing descriptor: 9"User 1000 is closeing descriptor: 10
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.448165] "User 1000 is closeing descriptor: 9"User 1000 is closeing descriptor: 10
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.448229] "User 1000 is closeing descriptor: 10"User 1000 is closeing descriptor: 10
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.451549] "User 1000 is closeing descriptor: 10"User 1000 is closeing descriptor: 10
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.451781] "User 1000 is closeing descriptor: 9"User 1000 is closeing descriptor: 8
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.451817] "User 1000 is closeing descriptor: 9"User 1000 is closeing descriptor: 8
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.452205] "User 1000 is closeing descriptor: 5"User 1000 is closeing descriptor: 3
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.452699] "User 1000 is closeing descriptor: 4"User 1000 is closeing descriptor: 8
+Feb  8 00:23:23 nick-VirtualBox kernel: [ 5944.452746] "User 1000 is closeing descriptor: 3"User 1000 is closeing descriptor: 4
+Feb  8 00:23:37 nick-VirtualBox kernel: [ 5944.452766] "User 1000 is closeing descriptor: 3Unloaded interceptor!
+Feb  8 00:23:40 nick-VirtualBox kernel: [ 5957.980262] Interceptor: Found syscall table at address: 0xC17DE1C0Loaded interceptor!
+Feb  8 00:23:40 nick-VirtualBox kernel: [ 5961.548225] User 1000 read from file descriptor 3, but that read contained malicous code!looking for task with pid 6257
+Feb  8 00:23:40 nick-VirtualBox kernel: [ 5961.548350] sibling pid: 0sibling pid: 6256
+Feb  8 00:23:40 nick-VirtualBox kernel: [ 5961.548352] 0'th parent pid: 62551'th parent pid: 2366
+Feb  8 00:23:40 nick-VirtualBox kernel: [ 5961.548354] 2'th parent pid: 23593'th parent pid: 1059
+Feb  8 00:23:40 nick-VirtualBox kernel: [ 5961.548355] 4'th parent pid: 10485'th parent pid: 788
+Feb  8 00:23:40 nick-VirtualBox kernel: [ 5961.548357] 6'th parent pid: 1looking for task with pid 6257
+Feb  8 00:23:40 nick-VirtualBox kernel: [ 5961.548471] target pid 6257 found!sibling pid: 0
+Feb  8 00:23:40 nick-VirtualBox kernel: [ 5961.548473] sibling pid: 62560'th parent pid: 6255
+Feb  8 00:23:40 nick-VirtualBox kernel: [ 5961.548474] 1'th parent pid: 23662'th parent pid: 2359
+Feb  8 00:23:40 nick-VirtualBox kernel: [ 5961.548476] 3'th parent pid: 10594'th parent pid: 1048
+Feb  8 00:23:40 nick-VirtualBox kernel: [ 5961.548477] 5'th parent pid: 7886'th parent pid:
